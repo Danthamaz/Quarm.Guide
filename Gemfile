@@ -1,3 +1,4 @@
+source "https://rubygems.org"
 gem "jekyll-remote-theme"
 
 if File.exist?(File.expand_path('../Gemfile.local', __FILE__))
