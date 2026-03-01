@@ -1,5 +1,2 @@
-gem "jekyll-remote-theme"
-
-if File.exist?(File.expand_path('../Gemfile.local', __FILE__))
-     eval_gemfile(File.expand_path('../Gemfile.local', __FILE__))
-   end
+source "https://rubygems.org"
+gem 'github-pages', group: :jekyll_plugins
