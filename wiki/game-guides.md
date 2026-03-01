@@ -23,6 +23,7 @@ Welcome to the central hub for all Project Quarm game guides.
             <li><a href="{{ 'aa' | relative_url }}">Alternate Advancement (AA) Guide</a></li>
             <li><a href="{{ 'focus' | relative_url }}">Focus Effects Information</a></li>
             <li><a href="{{ 'gina' | relative_url }}">GINA Triggers & Setup</a></li>
+            <li><a href="{{ 'hollowshade-moor-event' | relative_url }}">Hollowshade Moor Zone Event</a></li>
             <li><a href="{{ 'norrath-map' | relative_url }}">Interactive Norrath Map</a></li>
         </ul>
         <h3>Class Guides</h3>
